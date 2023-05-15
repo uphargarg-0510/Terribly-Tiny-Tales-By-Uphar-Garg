@@ -2,7 +2,6 @@
 
 #### Uphar Garg | 12006715 | uphargarg0510@gmail.com
 
-<br>
 
 ## Hosted Link:
 https://uphar-garg-ttt-assignment.netlify.app/
@@ -76,24 +75,29 @@ Hence, This is the desired actions of fetching content, calculating word frequen
 
 # Code Output on load
 
-![one](https://github.com/SupritiVats/Terribly_Tiny_Tales_Assignment/assets/97901522/77e9c597-fb50-4b5f-996e-3e5bef85f373)
+![Screenshot (183)](https://github.com/uphargarg-0510/Terribly-Tiny-Tales-By-Uphar-Garg/assets/72004195/a218f109-e025-4044-a4ee-6cc1444dd95e)
+
 
 <br>
 
 # Code Output on clicking on submit button
 #### It displays the histogram depicting words count and the words.
 
-![two](https://github.com/SupritiVats/Terribly_Tiny_Tales_Assignment/assets/97901522/49657030-58e3-45fc-ad65-63235309e0e8)
+![Screenshot (186)](https://github.com/uphargarg-0510/Terribly-Tiny-Tales-By-Uphar-Garg/assets/72004195/b758abab-a725-4c84-aa8f-09235fdbb334)
+
 
 <br>
 
 # Code Output on clicking on export button  
 #### It gets all top 20 most frequently occurred words.
 
-![three one](https://github.com/SupritiVats/Terribly_Tiny_Tales_Assignment/assets/97901522/ba9035e0-c1ed-494d-918d-6764fde455f7)
+![Screenshot (187)](https://github.com/uphargarg-0510/Terribly-Tiny-Tales-By-Uphar-Garg/assets/72004195/a48b9311-c3e5-44b1-b45d-63e95a6187f9)
+
 
 <br>
 
 # word-count-data.csv File Output 
 
-![three](https://github.com/SupritiVats/Terribly_Tiny_Tales_Assignment/assets/97901522/c14d8d3c-bf61-4245-bf1a-489031d11bb3)
+![Screenshot (188)](https://github.com/uphargarg-0510/Terribly-Tiny-Tales-By-Uphar-Garg/assets/72004195/5c5b20f2-b12c-40ad-9d29-2be59b6b790f)
+
+
