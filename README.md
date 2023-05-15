@@ -28,7 +28,6 @@ Y-axis = how many times they occurred in the file
 
 ## Explanation Of The Assignment:
 
-<br>
 
 ## Import : 
 
