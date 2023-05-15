@@ -23,7 +23,6 @@ X-axis = top 20 words with highest occurrence
 <br>
 Y-axis = how many times they occurred in the file
 
-<br>
 
 
 ## Explanation Of The Assignment:
@@ -37,7 +36,7 @@ chart.js from Chart.js library, which is used for creating charts and graphs.
 
 papaparse is used for parsing and generating CSV files.
 
-<br>
+
 
 ## Command to install chart.js :
 
